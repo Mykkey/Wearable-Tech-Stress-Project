@@ -25,3 +25,6 @@ jupyter nbconvert --to notebook --execute --inplace notebooks/01_data_audit_and_
 
 ## Repository
 https://github.com/Mykkey/Wearable-Tech-Stress-Project
+
+## AI Assistance Declaration
+Claude Code (Anthropic) was used for the setup files (README, requirements), code suggestions that I rewrote, and debugging and review. No other external code or collaboration was used.
