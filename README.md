@@ -59,4 +59,4 @@ High stress is only found about 40% of the time, and the dataset appears synthet
 https://github.com/Mykkey/Wearable-Tech-Stress-Project
 
 ## AI Assistance Declaration
-Claude Code was used throughout this project. It was used for suggestions, planning, setup files, wording, and drafting. Where Claude Code's suggestions were used, I rewrote and ran the code, and edited explanations. Claude Code was also used to help with setup files and No other external code or collaboration was used.
+Claude Code was used throughout this project. It was used for suggestions, planning, setup files, wording, and drafting. Where Claude Code's suggestions were used, I rewrote and ran the code, and edited explanations. Claude Code was also used to help with setup files. No other external code or collaboration was used.
